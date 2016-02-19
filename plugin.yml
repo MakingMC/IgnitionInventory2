@@ -1,3 +1,7 @@
 name: IgnitionInventory
 main: IgnitionInventory.Main
 version: 0.0.1
+commands:
+   toggleender:
+      description: Toggles special ender chests
+      usage: /<command>
